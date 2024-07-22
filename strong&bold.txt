@@ -1,0 +1,16 @@
+The <b> tag and <strong> tag in HTML serve different purposes semantically, despite both being used to make text appear bold visually.
+
+1)<b> Tag:
+
+The <b> tag is a presentational element in HTML used to stylistically bold text without conveying any specific meaning or emphasis. It's primarily used to apply bold formatting to text purely for visual appearance.
+Example:
+    html
+    <b>This text is bold.</b>
+
+
+2)<strong> Tag:
+
+The <strong> tag, on the other hand, is a semantic element that semantically emphasizes text, typically causing browsers and screen readers to emphasize the text in a way that conveys importance or stress. While it also makes text bold by default, its primary purpose is to indicate strong importance.
+Example:
+      html
+     <strong>This text is strongly emphasized.</strong>
