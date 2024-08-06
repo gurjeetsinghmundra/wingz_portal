@@ -1,0 +1,34 @@
+
+.middle2{
+  display: flex;
+  justify-content: center;
+
+}
+
+p{
+  border: 3px solid;
+  height: 45px;
+  width: 470px;
+  text-align: center;
+  padding: 10px;
+  box-shadow:7px 8px 4px grey ;
+}
+
+h1{
+  text-align: center;
+  text-shadow:6px 5px 4px grey ;
+  font-size: 45px;
+}
+
+.logo1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 7px 8px 5px grey;
+  
+}
+
+img{
+  border:1px transparent;
+  box-shadow: 7px 8px 5px grey;
+}
