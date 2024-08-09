@@ -1,0 +1,27 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ padding-top: 200px;
+
+}
+
+
+
+.box1{
+  border: 1px solid red;
+  height: 400px;
+  background-color: #F1E7BA;;
+  width: 440px;
+  color: white;
+  border: none;
+}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: none;
+  box-sizing: border-box;
+}
